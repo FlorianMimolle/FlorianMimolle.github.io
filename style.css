@@ -1,0 +1,27 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #F70B0B;
+font-family: impact, sans-serif;;
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+font-family: impact;
+margin: 100px;
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Georgia, sans-serif;
+margin : 10px
+}
+
+.left { float:left; margin:1000 300px 50 200px; }
+.right { float:right; margin:1000 300px 50 200px; }
+
+body{
+background-color: #FFD1D1;
+}
